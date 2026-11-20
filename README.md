@@ -2,7 +2,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-ryo725&theme=2077)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=A-ryo725&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=A-ryo725&theme=onedark)]
 
 <!--
 **A-ryo725/A-ryo725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
