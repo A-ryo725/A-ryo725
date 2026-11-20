@@ -31,12 +31,12 @@
 
 <div align="center">
 
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=A-ryo725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-ryo725&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=A-ryo725&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-ryo725&layout=compact&langs_count=10&theme=dark&hide_border=true&count_private=true" />
 
 <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-ryo725&theme=2077" />
 
-[![trophy](https://github-profile-trophy-three-phi.vercel.app/?username=A-ryo725&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-three-phi.vercel.app/?username=A-ryo725&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
