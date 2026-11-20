@@ -74,8 +74,6 @@
 
 <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-ryo725&theme=github_dark" />
 
-[![trophy](https://github-profile-trophy-three-phi.vercel.app/?username=A-ryo725&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 <div align="center">
