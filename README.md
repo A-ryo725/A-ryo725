@@ -11,7 +11,7 @@
 ## 👤 About
 - 🧑‍💻 大学2年生
 - 💻 Web・モバイル・システム開発
-- 🤖 AIを使って開発しています
+- 🤖 AIを使って開発しています(Claude Code, Codex)
 
 ## 🛠 Tech Stack
 
