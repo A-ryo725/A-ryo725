@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack
 
-### Languages
+### Languages(AI使用)
 
 <p>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="48" height="48" /></a>
