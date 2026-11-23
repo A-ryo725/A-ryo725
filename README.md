@@ -2,8 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:24283b,100:7aa2f7&text=A-ryo725&fontColor=ffffff&fontSize=52&fontAlignY=50" alt="banner" width="100%" />
 
+<h3>Hello World! 👋</h3>
+
 <a href="https://github.com/A-ryo725">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B;Python+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Kotlin+%C2%B7+Flutter;Building+things+and+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Python+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Kotlin+%C2%B7+Flutter;Building+things+and+learning" alt="Typing SVG" />
 </a>
 
 </div>
